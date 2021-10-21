@@ -1,2 +1,2 @@
 # NetflixClone
-Um clone do Netflix
+Um clone da página inicial da Netflix
